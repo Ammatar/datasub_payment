@@ -2,7 +2,9 @@
 <strong>Root:</strong>
 <p>.: yarn start to run client at 3000</p>
 <p>server: contains Express server - yarn dev to run on port 3100</p>
+<p> the server folder contains the db subfolder, the database connection string is contained in the file dbConnection.js </p>
  
+ <hr/>
 <div>
 Not a valid data (button disabled):
 
